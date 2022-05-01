@@ -6,7 +6,7 @@ function reformat($string){
     $myString = ucfirst(strtolower($myString));
     return print_r($myString);
 }
-
+//please enter your input here below
 reformat("liMeSHArp DeveLoper TEST");
 
 ?>
